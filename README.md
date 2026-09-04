@@ -121,19 +121,19 @@ SUDOGRID/
 
 ### 🧩 Sudoku Board
 
-*Add the main application interface screenshot here.*
+<img width="577" height="822" alt="image" src="https://github.com/user-attachments/assets/17aa3421-27eb-43ee-b2d3-295cf8fe8c2f" />
 
 ### 💡 Solution View
 
-*Add the screenshot showing the Sudoku solution here.*
+<img width="580" height="822" alt="image" src="https://github.com/user-attachments/assets/cb6fa15d-758b-489c-827a-3741202d89da" />
 
 ### ✅ Move Validation
 
-*Add the screenshot showing the Check Moves functionality here.*
+<img width="573" height="821" alt="image" src="https://github.com/user-attachments/assets/c586a48f-79b4-496a-af59-99c1d46c2c7c" />
 
 ### 🔄 Reset and Exit
 
-*Add the screenshots showing the Reset and Exit confirmation dialogs here.*
+<img width="576" height="827" alt="image" src="https://github.com/user-attachments/assets/2bdbc4ff-a610-459c-88f4-21b5d0d3af1a" />
 
 ---
 
